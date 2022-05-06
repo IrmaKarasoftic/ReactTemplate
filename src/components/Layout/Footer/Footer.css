@@ -1,0 +1,9 @@
+.footer {
+    height:50px;
+ }
+ 
+ .footer-content {
+    border:1px solid magenta;
+    height:32px;
+    padding:8px;
+ }
