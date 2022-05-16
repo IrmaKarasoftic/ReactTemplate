@@ -1,9 +1,10 @@
 .footer {
-    height:50px;
+   margin-left: 152px;
+    height:100px;
  }
  
  .footer-content {
     border:1px solid magenta;
-    height:32px;
+    height:100px;
     padding:8px;
  }

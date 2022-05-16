@@ -1,9 +1,9 @@
 .header {
-    height:50px;
+   height:150px;
  }
  
  .header-content {
     border:1px solid magenta;
-    height:32px;
+    height:100px;
     padding:8px;
  }

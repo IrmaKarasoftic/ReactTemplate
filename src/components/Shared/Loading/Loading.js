@@ -1,11 +1,8 @@
-import './Loading.scss';
+import React from "react";
+import "./Loading.css";
 
-function Loading(props) {
-  return (
-    <div class="lds-roller">
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div
-    ></div>
-  );
+function Loading() {
+  return <div className="loader"></div>;
 }
 
 export default Loading;
