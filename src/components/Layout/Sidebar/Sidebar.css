@@ -1,8 +1,8 @@
 .sidebar {
     border:1px solid skyblue;
-    width:100px;
+    width:150px;
     position:absolute;
     left:0;
-    top:50px;
+    top:100px;
     bottom:50px;
  }
