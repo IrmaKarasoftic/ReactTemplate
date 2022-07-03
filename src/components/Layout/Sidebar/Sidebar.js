@@ -6,19 +6,13 @@ function Sidebar() {
     <>
       <div className="sidebar">
         <div>
-          <a href="/car/1">Car 1</a>
+          <a href="/menuItem/1">Menu 1</a>
         </div>
         <div>
-          <a href="/car/2">Car 2</a>
+          <a href="/menuItem/2">Menu 2</a>
         </div>
         <div>
-          <a href="/car/3">Car 3</a>
-        </div>
-        <div>
-          <a href="/vin">Vin decoder</a>
-        </div>
-        <div>
-          <a href="/cars">Cars</a>
+          <a href="/menuItem/3">Menu 3</a>
         </div>
         <div>
           <a href="/cards">Cards</a>
